@@ -2,6 +2,7 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.*;
+import tests.BaseSeleniumTest;
 
 
 public class GoogleSerchTest extends BaseSeleniumTest {

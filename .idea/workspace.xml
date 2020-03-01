@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/test/java/GoogleSerchTest.java" line="35" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/GoogleSerchTest.java" line="36" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d18a7567-ec57-4b06-8b7b-f2963b2135da" name="Default Changelist" comment="" />
+    <list default="true" id="d18a7567-ec57-4b06-8b7b-f2963b2135da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test282000000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test442000000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AnnotationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GoogleSearchTestWithFindByPageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WaitsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/travelers/helpers/SeleniumHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/travelers/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/travelers/pages/ResultPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/SearchHotelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseSeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseSeleniumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DragAndDropTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DragAndDropTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FileUploadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FileUploadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FirstSeleniumTestFirstPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstSeleniumTestFirstPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GoogleSerchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GoogleSerchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HandlingFrameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HandlingFrameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/doubleClicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DoubleClicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BaseSeleniumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DragAndDropTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DragAndDropTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FileUploadFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FileUploadFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/GoogleSerchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/GoogleSerchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HandlingFrameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HandlingFrameTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/doubleClicTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,6 +38,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/seleniumRight$WaitsTest_waitTest.ic" NAME="WaitsTest.waitTest Coverage Results" MODIFIED="1580075691316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -34,48 +63,52 @@
     <session id="-955662007">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.17" value="1" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="3" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="25" />
+          <entry key="dummy" value="26" />
           <entry key="http" value="4" />
-          <entry key="java" value="5905" />
+          <entry key="java" value="11597" />
           <entry key="xml" value="300" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTTP Request" value="4" />
-          <entry key="JAVA" value="5905" />
-          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="JAVA" value="11597" />
+          <entry key="PLAIN_TEXT" value="26" />
           <entry key="XML" value="300" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="9" />
+          <entry key="class" value="22" />
           <entry key="html" value="1" />
           <entry key="http" value="1" />
-          <entry key="java" value="14" />
-          <entry key="xml" value="2" />
+          <entry key="java" value="38" />
+          <entry key="png" value="1" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="9" />
+          <entry key="CLASS" value="22" />
           <entry key="HTML" value="1" />
           <entry key="HTTP Request" value="1" />
-          <entry key="JAVA" value="14" />
-          <entry key="XML" value="2" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="38" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -83,10 +116,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/FirstSeleniumTestFirstPart.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1785">
-              <caret line="25" column="27" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="104" />
+            <state relative-caret-position="279">
+              <caret line="98" column="5" lean-forward="true" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,31 +128,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/GoogleSerchTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/helpers/SeleniumHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+            <state relative-caret-position="-6">
+              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/FileUploadFile.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/SearchHotelTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DragAndDropTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="79">
+              <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,48 +154,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/doubleClicTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/pages/ResultPages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/BaseSeleniumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/HandlingFrameTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="14" selection-start-line="14" selection-end-line="15" />
+            <state relative-caret-position="249">
+              <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -193,6 +181,9 @@
       <find>sleep</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -210,6 +201,15 @@
         <option value="$PROJECT_DIR$/src/test/java/GoogleSerchTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/SeleniumHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/FileUploadFile.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FirstSeleniumTestFirstPart.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WaitsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GoogleSearchTestWithFindByPageFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AnnotationsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/BaseSeleniumTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/travelers/helpers/SeleniumHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/travelers/pages/ResultPages.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/travelers/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/SearchHotelTest.java" />
       </list>
     </option>
   </component>
@@ -243,10 +243,13 @@
     <option name="width" value="640" />
     <option name="height" value="741" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
-      <hideEmptyPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -262,62 +265,19 @@
               <item name="seleniumRight" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="seleniumRight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumRight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumRight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumRight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumRight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumRight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="executables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumRight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumRight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="executables" type="462c0819:PsiDirectoryNode" />
-              <item name="divers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumRight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumRight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumRight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumRight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580060139266" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583026387975" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -326,6 +286,9 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/executables/divers" />
       <recent name="$PROJECT_DIR$/src/main/resources/WebPages" />
@@ -343,22 +306,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.FileUploadFile.uploadFileTest">
-    <configuration name="DragAndDropTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SearchHotelTest.searchHotelTest">
+    <configuration name="AnnotationsTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumRight" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DragAndDropTest" />
+      <option name="MAIN_CLASS_NAME" value="AnnotationsTest" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DragAndDropTest.dragAndDropTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AnnotationsTest.googleSearchTestWithFindByPageFactory" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumRight" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DragAndDropTest" />
-      <option name="METHOD_NAME" value="dragAndDropTest" />
+      <option name="MAIN_CLASS_NAME" value="AnnotationsTest" />
+      <option name="METHOD_NAME" value="googleSearchTestWithFindByPageFactory" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -366,11 +329,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileUploadFile.uploadFileTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GoogleSearchTestWithFindByPageFactory.googleSearchTestWithFindByPageFactory" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumRight" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FileUploadFile" />
-      <option name="METHOD_NAME" value="uploadFileTest" />
+      <option name="MAIN_CLASS_NAME" value="GoogleSearchTestWithFindByPageFactory" />
+      <option name="METHOD_NAME" value="googleSearchTestWithFindByPageFactory" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -378,11 +341,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleSerchTest.googleSerchTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchHotelTest.searchHotelTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumRight" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GoogleSerchTest" />
-      <option name="METHOD_NAME" value="googleSerchTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchHotelTest" />
+      <option name="METHOD_NAME" value="searchHotelTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -390,11 +359,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="doubleClicTest.doubleClickTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WaitsTest.waitTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumRight" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="doubleClicTest" />
-      <option name="METHOD_NAME" value="doubleClickTest" />
+      <option name="MAIN_CLASS_NAME" value="WaitsTest" />
+      <option name="METHOD_NAME" value="waitTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -403,19 +372,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.DragAndDropTest.dragAndDropTest" />
-      <item itemvalue="TestNG.DragAndDropTest" />
-      <item itemvalue="TestNG.doubleClicTest.doubleClickTest" />
-      <item itemvalue="TestNG.GoogleSerchTest.googleSerchTest" />
-      <item itemvalue="TestNG.FileUploadFile.uploadFileTest" />
+      <item itemvalue="TestNG.WaitsTest.waitTest" />
+      <item itemvalue="TestNG.GoogleSearchTestWithFindByPageFactory.googleSearchTestWithFindByPageFactory" />
+      <item itemvalue="TestNG.AnnotationsTest.googleSearchTestWithFindByPageFactory" />
+      <item itemvalue="TestNG.AnnotationsTest" />
+      <item itemvalue="TestNG.SearchHotelTest.searchHotelTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FileUploadFile.uploadFileTest" />
-        <item itemvalue="TestNG.GoogleSerchTest.googleSerchTest" />
-        <item itemvalue="TestNG.doubleClicTest.doubleClickTest" />
-        <item itemvalue="TestNG.DragAndDropTest.dragAndDropTest" />
-        <item itemvalue="TestNG.DragAndDropTest" />
+        <item itemvalue="TestNG.SearchHotelTest.searchHotelTest" />
+        <item itemvalue="TestNG.AnnotationsTest.googleSearchTestWithFindByPageFactory" />
+        <item itemvalue="TestNG.AnnotationsTest" />
+        <item itemvalue="TestNG.GoogleSearchTestWithFindByPageFactory.googleSearchTestWithFindByPageFactory" />
+        <item itemvalue="TestNG.WaitsTest.waitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -434,50 +403,55 @@
       <workItem from="1579651063695" duration="5773000" />
       <workItem from="1579734961427" duration="5084000" />
       <workItem from="1579822103612" duration="4792000" />
-      <workItem from="1580043682116" duration="15264000" />
+      <workItem from="1580043682116" duration="21650000" />
+      <workItem from="1580250886393" duration="8144000" />
+      <workItem from="1580426917578" duration="4024000" />
+      <workItem from="1580602522558" duration="3394000" />
+      <workItem from="1580641059337" duration="8215000" />
+      <workItem from="1580857115287" duration="6397000" />
+      <workItem from="1583019307418" duration="7352000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DragAndDropTest_dragAndDropTest - 2020.01.26 at 17h 37m 13s.xml">
-      <configuration name="DragAndDropTest.dragAndDropTest" configurationId="TestNG" />
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.01 at 01h 00m 10s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="doubleClicTest_doubleClickTest - 2020.01.26 at 17h 50m 13s.xml">
-      <configuration name="doubleClicTest.doubleClickTest" configurationId="TestNG" />
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.01 at 01h 00m 43s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="doubleClicTest_doubleClickTest - 2020.01.26 at 17h 50m 36s.xml">
-      <configuration name="doubleClicTest.doubleClickTest" configurationId="TestNG" />
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.01 at 01h 08m 19s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="doubleClicTest_doubleClickTest - 2020.01.26 at 17h 57m 55s.xml">
-      <configuration name="doubleClicTest.doubleClickTest" configurationId="TestNG" />
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.01 at 01h 11m 33s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="doubleClicTest_doubleClickTest - 2020.01.26 at 18h 09m 35s.xml">
-      <configuration name="doubleClicTest.doubleClickTest" configurationId="TestNG" />
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.01 at 01h 13m 09s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="doubleClicTest_doubleClickTest - 2020.01.26 at 18h 10m 40s.xml">
-      <configuration name="doubleClicTest.doubleClickTest" configurationId="TestNG" />
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.01 at 01h 18m 54s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="doubleClicTest_doubleClickTest - 2020.01.26 at 18h 11m 41s.xml">
-      <configuration name="doubleClicTest.doubleClickTest" configurationId="TestNG" />
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.01 at 01h 20m 18s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="doubleClicTest_doubleClickTest - 2020.01.26 at 18h 11m 57s.xml">
-      <configuration name="doubleClicTest.doubleClickTest" configurationId="TestNG" />
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.01 at 01h 43m 27s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GoogleSerchTest_googleSerchTest - 2020.01.26 at 18h 18m 41s.xml">
-      <configuration name="GoogleSerchTest.googleSerchTest" configurationId="TestNG" />
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.01 at 02h 07m 28s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GoogleSerchTest_googleSerchTest - 2020.01.26 at 18h 22m 24s.xml">
-      <configuration name="GoogleSerchTest.googleSerchTest" configurationId="TestNG" />
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.01 at 02h 21m 27s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54413000" />
+    <option name="totallyTimeSpent" value="98325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27134877" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26097366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -486,16 +460,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41788617" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960095" visible="true" weight="0.28874388" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26427406" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3284553" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039905" side_tool="true" weight="0.32626426" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49960095" weight="0.32626426" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -505,6 +479,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32960895" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32960895" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,27 +513,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebElement.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/BabyManagerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -569,52 +527,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BaseSeleniumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/doubleClicTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/DoubleClicTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FirstSeleniumTestFirstPart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1785">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="104" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/GoogleSerchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -625,26 +541,189 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HandlingFrameTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="14" selection-start-line="14" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FileUploadFile.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="192" column="48" selection-start-line="192" selection-start-column="48" selection-end-line="192" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/FluentWait.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/Keys.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/FindBy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/Wait.class">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/WebDriverWait.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" column="69" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HandlingFrameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AnnotationsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="37" column="59" lean-forward="true" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WaitsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/BaseSeleniumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GoogleSearchTestWithFindByPageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FirstSeleniumTestFirstPart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2120">
+          <caret line="25" selection-start-line="25" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/GoogleSerchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="60" selection-start-line="60" selection-end-line="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/pages/ResultPages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="98" column="5" lean-forward="true" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/helpers/SeleniumHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/test447000000.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/SearchHotelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

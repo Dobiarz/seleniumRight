@@ -10,7 +10,7 @@ import java.util.Set;
 
 public class FirstSeleniumTestFirstPart {
 
-   private  WebDriver driver;
+    private WebDriver driver;
 
     @Test
     public void googleOpenTest() throws InterruptedException {
