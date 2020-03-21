@@ -4,16 +4,14 @@
     <bookmark url="file://$PROJECT_DIR$/src/test/java/GoogleSerchTest.java" line="36" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d18a7567-ec57-4b06-8b7b-f2963b2135da" name="Default Changelist" comment="Section 10-11">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/executables/divers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/annonations/SecondTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/annonations/SecondTestDataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/travelers/helpers/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/travelers/helpers/DriverType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/travelers/helpers/NoSouchDriverException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/travelers/helpers/TestListner.java" afterDir="false" />
+    <list default="true" id="d18a7567-ec57-4b06-8b7b-f2963b2135da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/files/Dane.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/travelers/helpers/ExcelHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/travelers/helpers/PropertyLoader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/travelers/helpers/SeleniumHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/travelers/helpers/SeleniumHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/travelers/helpers/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/travelers/helpers/DriverFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseSeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseSeleniumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/SearchHotelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/SearchHotelTest.java" afterDir="false" />
     </list>
@@ -49,64 +47,115 @@
     <session id="-955662007">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.16" value="2" />
-          <entry key="project.open.time.17" value="3" />
+          <entry key="project.open.time.17" value="4" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.29" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="26" />
           <entry key="http" value="4" />
-          <entry key="java" value="13531" />
+          <entry key="java" value="15303" />
+          <entry key="properties" value="29" />
           <entry key="txt" value="24" />
-          <entry key="xml" value="300" />
+          <entry key="xml" value="340" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTTP Request" value="4" />
-          <entry key="JAVA" value="13531" />
+          <entry key="JAVA" value="15303" />
           <entry key="PLAIN_TEXT" value="50" />
-          <entry key="XML" value="300" />
+          <entry key="Properties" value="29" />
+          <entry key="XML" value="340" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="22" />
+          <entry key="class" value="23" />
           <entry key="html" value="1" />
           <entry key="http" value="1" />
-          <entry key="java" value="63" />
-          <entry key="png" value="9" />
-          <entry key="xml" value="4" />
+          <entry key="java" value="67" />
+          <entry key="md" value="1" />
+          <entry key="png" value="11" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="22" />
+          <entry key="CLASS" value="23" />
           <entry key="HTML" value="1" />
           <entry key="HTTP Request" value="1" />
-          <entry key="Image" value="9" />
-          <entry key="JAVA" value="63" />
-          <entry key="XML" value="4" />
+          <entry key="Image" value="11" />
+          <entry key="JAVA" value="67" />
+          <entry key="Markdown" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/SearchHotelTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+            <state relative-caret-position="343">
+              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/test.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/helpers/PropertyLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/helpers/ExcelHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="63" column="30" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/annonations/SecondTestDataProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,8 +166,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/BaseSeleniumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+            <state relative-caret-position="275">
+              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -126,10 +175,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/helpers/DriverFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            <state relative-caret-position="222">
+              <caret line="55" column="42" lean-forward="true" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3525#3526#0" expanded="true" />
+                <element signature="e#3561#3562#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -138,7 +189,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/helpers/TestListner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="270">
               <caret line="26" column="83" selection-start-line="26" selection-start-column="83" selection-end-line="26" selection-end-column="83" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -176,7 +227,6 @@
         <option value="$PROJECT_DIR$/src/test/java/BabyManagerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/FirstSeleniumTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/FirstSeleniumTestSecondPart.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/HandlingFrameTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/DragAndDropTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/BaseSeleniumTest.java" />
@@ -196,10 +246,14 @@
         <option value="$PROJECT_DIR$/src/test/java/annonations/TestListner.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/travelers/helpers/DriverType.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/travelers/helpers/NoSouchDriverException.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/travelers/helpers/DriverFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/travelers/helpers/TestListner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/travelers/helpers/ExcelHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/travelers/helpers/DriverFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/BaseSeleniumTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/SearchHotelTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/test.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/travelers/helpers/PropertyLoader.java" />
       </list>
     </option>
   </component>
@@ -243,7 +297,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,14 +321,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumRight" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumRight" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="divers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="seleniumRight" type="b2602c69:ProjectViewProjectNode" />
@@ -336,6 +381,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -343,24 +389,25 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584800062336" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584834314959" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.travelers.helpers" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/files" />
+      <recent name="$PROJECT_DIR$/src/main/resources/executables/divers" />
+      <recent name="$PROJECT_DIR$/src/main/resources/WebPages" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/executables/divers" />
-      <recent name="$PROJECT_DIR$/src/main/resources/WebPages" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.travelers.helpers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -375,7 +422,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SearchHotelTest">
+  <component name="RunManager" selected="Application.PropertyLoader">
+    <configuration name="ExcelHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.travelers.helpers.ExcelHelper" />
+      <module name="seleniumRight" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travelers.helpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertyLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.travelers.helpers.PropertyLoader" />
+      <module name="seleniumRight" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.travelers.helpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SearchHotelTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumRight" />
       <extension name="coverage">
@@ -426,56 +499,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondTestDataProvider.firstTestWithDataProvider" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="seleniumRight" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.travelers.helpers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="annonations" />
-      <option name="MAIN_CLASS_NAME" value="annonations.SecondTestDataProvider" />
-      <option name="METHOD_NAME" value="firstTestWithDataProvider" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondTestDataProvider.secondTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="seleniumRight" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.travelers.helpers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="annonations" />
-      <option name="MAIN_CLASS_NAME" value="annonations.SecondTestDataProvider" />
-      <option name="METHOD_NAME" value="secondTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="TestNG.SearchHotelTest.searchHotelTest" />
       <item itemvalue="TestNG.SecondTestDataProvider" />
-      <item itemvalue="TestNG.SecondTestDataProvider.firstTestWithDataProvider" />
-      <item itemvalue="TestNG.SecondTestDataProvider.secondTest" />
       <item itemvalue="TestNG.SearchHotelTest" />
+      <item itemvalue="Application.ExcelHelper" />
+      <item itemvalue="Application.PropertyLoader" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SearchHotelTest" />
+        <item itemvalue="Application.PropertyLoader" />
         <item itemvalue="TestNG.SearchHotelTest.searchHotelTest" />
+        <item itemvalue="Application.ExcelHelper" />
+        <item itemvalue="TestNG.SearchHotelTest" />
         <item itemvalue="TestNG.SecondTestDataProvider" />
-        <item itemvalue="TestNG.SecondTestDataProvider.firstTestWithDataProvider" />
-        <item itemvalue="TestNG.SecondTestDataProvider.secondTest" />
       </list>
     </recent_temporary>
   </component>
@@ -502,7 +539,8 @@
       <workItem from="1580857115287" duration="6397000" />
       <workItem from="1583019307418" duration="7674000" />
       <workItem from="1583094103731" duration="4199000" />
-      <workItem from="1584788356364" duration="11745000" />
+      <workItem from="1584788356364" duration="12217000" />
+      <workItem from="1584824596623" duration="9478000" />
     </task>
     <task id="LOCAL-00001" summary="Section 7-9">
       <created>1583026732225</created>
@@ -511,28 +549,17 @@
       <option name="project" value="LOCAL" />
       <updated>1583026732226</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Section 10-11">
+      <created>1584800274331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584800274331</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SearchHotelTest - 2020.03.21 at 13h 35m 42s.xml">
-      <configuration name="SearchHotelTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SearchHotelTest - 2020.03.21 at 13h 38m 32s.xml">
-      <configuration name="SearchHotelTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.21 at 13h 41m 21s.xml">
-      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SearchHotelTest - 2020.03.21 at 13h 56m 30s.xml">
-      <configuration name="SearchHotelTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SearchHotelTest - 2020.03.21 at 13h 57m 37s.xml">
-      <configuration name="SearchHotelTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SearchHotelTest - 2020.03.21 at 14h 02m 14s.xml">
-      <configuration name="SearchHotelTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="SearchHotelTest - 2020.03.21 at 14h 55m 56s.xml">
       <configuration name="SearchHotelTest" configurationId="TestNG" />
     </history-entry>
@@ -545,15 +572,64 @@
     <history-entry file="SearchHotelTest - 2020.03.21 at 15h 05m 29s.xml">
       <configuration name="SearchHotelTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.21 at 23h 56m 40s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.22 at 00h 00m 54s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.22 at 00h 03m 15s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.22 at 00h 19m 55s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.22 at 00h 21m 28s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchHotelTest_searchHotelTest - 2020.03.22 at 00h 24m 50s.xml">
+      <configuration name="SearchHotelTest.searchHotelTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114591000" />
+    <option name="totallyTimeSpent" value="124541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27055067" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960095" visible="true" weight="0.18760195" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26427406" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039905" side_tool="true" weight="0.32626426" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49960095" weight="0.32626426" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32960895" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32960895" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32960895" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25059855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -582,7 +658,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32960895" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32960895" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -592,7 +668,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Section 7-9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 7-9" />
+    <MESSAGE value="Section 10-11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 10-11" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/WebPages/Test.html" />
@@ -765,23 +842,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/test447000000.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/pages/ResultPages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/annonations/SecondTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -799,31 +859,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/87000000.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/310000000.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/504000000.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/232000000.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/annonations/SecondTestDataProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/866000000.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/87000000.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/310000000.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/504000000.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/232000000.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/866000000.png" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/helpers/SeleniumHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
@@ -850,8 +890,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/helpers/TestListner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="270">
           <caret line="26" column="83" selection-start-line="26" selection-start-column="83" selection-end-line="26" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/4.1.2/poi-ooxml-4.1.2.jar!/org/apache/poi/xssf/usermodel/XSSFWorkbook.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <caret line="134" column="11" selection-start-line="134" selection-start-column="11" selection-end-line="134" selection-end-column="11" />
+          <folding>
+            <element signature="e#6361#6362#0" expanded="true" />
+            <element signature="e#6404#6405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/annonations/SecondTestDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/helpers/ExcelHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="30" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="90" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -860,25 +939,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/BaseSeleniumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        <state relative-caret-position="275">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/helpers/DriverFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/pages/ResultPages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="15">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/988000000.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/812000000.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/SearchHotelTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        <state relative-caret-position="343">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/helpers/DriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="55" column="42" lean-forward="true" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3525#3526#0" expanded="true" />
+            <element signature="e#3561#3562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/travelers/helpers/PropertyLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -74,4 +74,8 @@ public class DriverFactory {
                     throw new NoSouchDriverException();
         }
     }
+
+    public static void resetDriver() {
+        driverInstance = null;
+    }
 }
