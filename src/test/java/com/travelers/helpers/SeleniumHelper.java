@@ -1,14 +1,15 @@
 package com.travelers.helpers;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
 
+import java.io.File;
+import java.io.IOException;
+import java.nio.file.Files;
 import java.time.Duration;
+import java.time.LocalTime;
 import java.util.List;
 
 public class SeleniumHelper {
@@ -43,5 +44,14 @@ public class SeleniumHelper {
                 .pollingEvery(Duration.ofMillis(1000))
                 .ignoring(NoSuchElementException.class);
         wait.until(driver1 -> elementList.size()>0);
+    }
+
+    public static void takeScreenshot(WebDriver driver) throws IOException {
+        TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
+        File screenshotFie = takesScreenshot.getScreenshotAs(OutputType.FILE);
+        File destinationFile = new File("src/main/resources/" + LocalTime.now().getNano() + ".png");
+        Files.copy(screenshotFie.toPath(),destinationFile.toPath());
+
+
     }
 }

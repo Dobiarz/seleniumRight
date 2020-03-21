@@ -1,18 +1,22 @@
 package tests;
 
+import com.travelers.helpers.TestListner;
 import com.travelers.pages.HomePage;
 import com.travelers.pages.ResultPages;
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
+import java.io.IOException;
 import java.util.List;
-import java.util.concurrent.TimeUnit;
 
+
+@Listeners(TestListner.class)
 public class SearchHotelTest extends BaseSeleniumTest {
 
 
     @Test
-    public void searchHotelTest() {
+    public void searchHotelTest() throws IOException {
         //Ponizsza linijka driver.mange zapewnia zaladowanie sie wszystkich elementow strony
         // obecnie jest niekonieczna ze wzgledu na metody waitFor...  w klasie Selenium helper
 //        driver.manage().timeouts().implicitlyWait(15L, TimeUnit.SECONDS);
